@@ -1,0 +1,18 @@
+
+
+	cat 
+
+	Displays and combines files.
+  	More information: https://www.gnu.org/software/coreutils/manual/html_node/cat-invocation.html.
+
+
+		- See what's inside a file:
+		cat file.txt
+
+		- See two files combined, one after the other:
+		cat file1.txt file2.txt
+
+		- See the file with line numbers:
+		cat -n file.txt
+
+

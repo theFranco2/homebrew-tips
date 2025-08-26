@@ -1,0 +1,18 @@
+
+
+	cp
+	
+	Copy files and folders.
+	More information: https://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html.
+
+		
+		- Copy a file:
+		cp file.txt copied.txt
+
+		- Copy a file into another folder:
+		cp file.txt path/to/folder
+
+		- Copy a folder and everything inside it:
+		cp -r folder/ path/to/destination/
+
+

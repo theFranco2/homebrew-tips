@@ -1,0 +1,23 @@
+
+
+	rm
+	
+	Deletes files and folder. 
+	More information: https://www.gnu.org/software/coreutils/manual/html_node/rm-invocation.html.
+				[38;2;255;66;69m
+	Warning: *This is permanent. There is no trash can.*
+				[0m
+
+		- Delete a file, asking for confirmation first. (This is the safest way.):
+		rm -I file.txt
+		
+		- Delete a file without asking. (less safer.):
+		rm file.txt
+
+		- Delete a folder and everything inside it safely:
+		rm -Ir folder/
+
+
+	 Your folder is empty? See "rmdir" page to remove it safely.
+
+

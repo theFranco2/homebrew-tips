@@ -1,0 +1,16 @@
+
+
+	
+	man
+
+	The original instruction book for the system. 
+	Use this for a deep dive when "tips" is not enough. It explains every detail and every option.
+	
+
+		- See the full, technical manual for a command:
+		man ls
+
+
+	To quit the manual page, just press the "q" key.
+
+

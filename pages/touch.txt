@@ -1,0 +1,15 @@
+
+
+	touch
+	
+	Creates empty files.
+	More information: https://manned.org/touch.
+
+
+		- Create a single empty file:
+		touch file.txt
+
+		- Create more than one empty file at the same time:
+		touch index.html script.js style.css
+
+

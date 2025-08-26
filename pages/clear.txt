@@ -1,0 +1,12 @@
+
+
+	clear
+
+	Clears your screen.
+	More information: https://manned.org/clear.
+
+
+		- Give yourself a fresh, clean screen:
+		clear
+
+

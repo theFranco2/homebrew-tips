@@ -1,0 +1,12 @@
+
+	
+	pwd
+
+  	Tells you where you are.
+  	More information: https://www.gnu.org/software/coreutils/manual/html_node/pwd-invocation.html.
+
+
+  		- See your current folder path:
+   		 pwd
+
+

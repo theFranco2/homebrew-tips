@@ -1,0 +1,21 @@
+
+	
+	ls
+	
+	Show you what's in a folder.
+	More information: https://www.gnu.org/software/coreutils/manual/html_node/ls-invocation.html.
+
+
+		- See files one per line:
+		ls -1
+
+		- See everything, including hidden files:
+		ls --all
+
+		- See the files by their types:
+		ls --classify
+	
+		- See a detailed list of everything:
+		ls -l --all
+
+

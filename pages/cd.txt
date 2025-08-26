@@ -1,0 +1,24 @@
+
+
+	cd
+	
+	Moves you between folders.
+	More information: https://manned.org/cd.
+
+
+		- Go to a specific folder:
+		cd path/to/folder
+
+		- Go a folder back:
+		cd ..
+	
+		- Go home. Your personal folder:
+		cd
+	
+		- Go back to the folder you were just in:
+    		cd -
+
+		- Go to the root folder:
+		cd /
+
+

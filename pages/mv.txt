@@ -1,0 +1,18 @@
+
+
+	mv
+	
+	Moves or rename files and folders.
+	More information: https://www.gnu.org/software/coreutils/manual/html_node/mv-invocation.html.
+	
+		
+		- Rename a file:
+		mv old_name.txt new_name.txt
+
+		- Move a single file into a folder:
+		mv file.txt path/to/folder
+
+		- Move more than one file at the same time:
+		mv file1.txt file2.txt path/to/folder
+
+	

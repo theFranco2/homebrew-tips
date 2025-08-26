@@ -1,0 +1,18 @@
+
+
+	mkdir
+	
+	Creates folders.
+	More information: https://www.gnu.org/software/coreutils/manual/html_node/mkdir-invocation.html.
+
+
+		- Create a single folder:
+		mkdir folder_name
+
+		- Create more than one folder at the same time:
+		mkdir folder1 folder2 ...
+
+		- Create a folder inside another:
+		mkdir -p example/projects/src
+
+

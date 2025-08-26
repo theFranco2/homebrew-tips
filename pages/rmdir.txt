@@ -1,0 +1,18 @@
+
+
+	rmdir
+
+	Removes empty folders, safely.
+	More information: https://www.gnu.org/software/coreutils/manual/html_node/rmdir-invocation.html.
+
+
+		- Remove a single empty folder:
+		rmdir folder/
+
+		- Remove more than one empty folder:
+		rmdir folder1/ folder2/ ...
+
+
+	Not empty? See "rm" page.
+
+
