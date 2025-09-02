@@ -5,7 +5,7 @@ cmake_minimum_required(VERSION 3.10)
 project(tips VERSION 1.0.0 LANGUAGES C)
 
 # Define the executable
-add_executable(tips src/main.c)
+add_executable(tips Formula/main.c)
 
 # Handle the Data Directory
 set(TIPS_PAGES_PATH "${CMAKE_INSTALL_PREFIX}/share/tips/tips-pages" CACHE PATH "Path to tips pages files")
