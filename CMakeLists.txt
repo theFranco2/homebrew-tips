@@ -17,4 +17,4 @@ target_compile_definitions(tips PRIVATE "-DTIPS_PAGES_PATH=\"${TIPS_PAGES_PATH}\
 install(TARGETS tips DESTINATION bin)
 
 # Handle the pages directory
-install(DIRECTORY pages/ DESTINATION share/tips-pages)
+install(DIRECTORY pages/ DESTINATION /share/tips-pages)
