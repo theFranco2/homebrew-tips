@@ -3,11 +3,12 @@
 
 // Path name folder
 const char *FOLDER_PATH = TIPS_PAGES_PATH;
-// Prototype
-printf("%s", FOLDER_PATH);
 
 int main(int argc, char *argv[])
-{
+{	
+	// Prototype
+	printf("%s", FOLDER_PATH);
+	
 	// Only take one argument
 	if (argc != 2)
 	{
