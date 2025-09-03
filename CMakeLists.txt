@@ -11,7 +11,7 @@ add_executable(tips Formula/main.c)
 set(TIPS_PAGES_PATH "${CMAKE_INSTALL_PREFIX}/share/tips/tips-pages" CACHE PATH "Path to tips pages files")
 
 # Create a macro to store the path
-target_compile_definitions(tips PRIVATE "-DTIPS_DATA_D=\"${TIPS_PAGES_PATH}\"")
+target_compile_definitions(tips PRIVATE "-DTIPS_PAGES_PATH=\"${TIPS_PAGES_PATH}\"")
 
 # Install tips
 install(TARGETS tips DESTINATION bin)
