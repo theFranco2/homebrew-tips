@@ -15,3 +15,6 @@ target_compile_definitions(tips PRIVATE "-DTIPS_PAGES_PATH=\"${TIPS_PAGES_PATH}\
 
 # Install tips
 install(TARGETS tips DESTINATION bin)
+
+# Store the data in a folder
+install(DIRECTORY tips-pages/ DESTINATION share/tips)
