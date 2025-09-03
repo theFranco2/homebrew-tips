@@ -3,6 +3,7 @@
 
 // Path name folder
 const char *FOLDER_PATH = TIPS_PAGES_PATH;
+printf("%s", FOLDER_PATH);
 
 int main(int argc, char *argv[])
 {
@@ -43,7 +44,7 @@ int main(int argc, char *argv[])
 		// Print the char onto the terminal
 		putchar(c);
 	}	
-
+	
         // Close the tips (file)
         fclose(tips);
 
