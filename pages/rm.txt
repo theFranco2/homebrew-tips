@@ -8,10 +8,10 @@
 	Warning: *This is permanent. There is no trash can.*
 				[0m
 
-		- Delete a file, asking for confirmation first. (This is the safest way.):
+		- Delete a file, asking for confirmation first. (This is the safest way):
 		rm -I file.txt
 		
-		- Delete a file without asking. (less safer.):
+		- Delete a file without asking. (less safer):
 		rm file.txt
 
 		- Delete a folder and everything inside it safely:
