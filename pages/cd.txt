@@ -16,7 +16,7 @@
 		cd
 	
 		- Go back to the folder you were just in:
-    		cd -
+    	cd -
 
 		- Go to the root folder:
 		cd /
