@@ -18,7 +18,3 @@
 		- Go back to the folder you were just in:
     	cd -
 
-		- Go to the root folder:
-		cd /
-
-
