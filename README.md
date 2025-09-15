@@ -1,2 +1,5 @@
 # Tips
-Tips gives you the hint you just need to start using the CLI.
+Tips gives you fast explanations for commands. Simply.
+
+# Install tips easily
+Just type `brew thefranco2/tips/tips`. And that's it! 
