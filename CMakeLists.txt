@@ -2,7 +2,7 @@
 cmake_minimum_required(VERSION 3.10)
 
 # Define the project name and specify that it's a C project.
-project(tips VERSION 1.0.0 LANGUAGES C)
+project(tips VERSION 1.0.1 LANGUAGES C)
 
 # Define the executable
 add_executable(tips Formula/main.c)
