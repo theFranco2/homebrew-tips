@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <dirent.h>
+#include <limits.h>
 
 // Path name folder
 const char *FOLDER_PATH = TIPS_PAGES_PATH;
