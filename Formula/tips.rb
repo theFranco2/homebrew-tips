@@ -2,7 +2,7 @@ class Tips < Formula
   desc "Tips gives you fast explanations for commands. Simply."
   homepage "https://github.com/theFranco2/homebrew-tips"
   url "https://github.com/theFranco2/homebrew-tips/archive/refs/tags/v1.0.2.tar.gz"
-  sha256 "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  sha256 "f550f50a5bb9d97778afc1e3ca5474a906b719de4ac1ece86c0d862baac385b2"
   license "BSD-2-Clause"
 
   depends_on "cmake" => :build
